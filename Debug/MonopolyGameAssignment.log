@@ -1,0 +1,60 @@
+﻿  PropertySquares.cpp
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.h(17): error C3646: 'loadPropertyInformation': unknown override specifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(19): error C2065: 'loadPropertyInformation': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(19): error C2228: left of '.reset' must have class/struct/union
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(19): note: type is 'unknown-type'
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(23): error C2065: 'defaultPropertyType': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(25): error C2065: 'loadPropertyInformation': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(25): error C2227: left of '->type' must point to class/struct/union/generic type
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(25): note: type is 'unknown-type'
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(25): error C2065: 'Special': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(26): error C2065: 'loadPropertyInformation': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(26): error C2227: left of '->group' must point to class/struct/union/generic type
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(26): note: type is 'unknown-type'
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(30): error C2065: 'loadPropertyInformation': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(30): error C2227: left of '->propertyName' must point to class/struct/union/generic type
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(30): note: type is 'unknown-type'
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(32): error C2065: 'loadPropertyInformation': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(34): error C2065: 'defaultPropertyType': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(36): error C2065: 'loadPropertyInformation': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(36): error C2227: left of '->type' must point to class/struct/union/generic type
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(36): note: type is 'unknown-type'
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(36): error C2065: 'Normal': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(39): error C2065: 'loadPropertyInformation': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(39): error C2227: left of '->propertyName' must point to class/struct/union/generic type
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(39): note: type is 'unknown-type'
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(40): error C2065: 'loadPropertyInformation': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(40): error C2227: left of '->cost' must point to class/struct/union/generic type
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(40): note: type is 'unknown-type'
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(41): error C2065: 'loadPropertyInformation': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(41): error C2227: left of '->rent' must point to class/struct/union/generic type
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(41): note: type is 'unknown-type'
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(42): error C2065: 'loadPropertyInformation': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(42): error C2227: left of '->group' must point to class/struct/union/generic type
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(42): note: type is 'unknown-type'
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(44): error C2065: 'loadPropertyInformation': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(44): error C2227: left of '->propertyNumber' must point to class/struct/union/generic type
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(44): note: type is 'unknown-type'
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(45): error C2065: 'loadPropertyInformation': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(45): error C2227: left of '->ownershipStatus' must point to class/struct/union/generic type
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(45): note: type is 'unknown-type'
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(46): error C2065: 'loadPropertyInformation': undeclared identifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(59): error C2039: 'propertyName': is not a member of 'PropertyStructure'
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\definitions.h(16): note: see declaration of 'PropertyStructure'
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(60): error C2039: 'group': is not a member of 'PropertyStructure'
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\definitions.h(16): note: see declaration of 'PropertyStructure'
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.cpp(60): error C2039: 'propertyNumber': is not a member of 'PropertyStructure'
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\definitions.h(16): note: see declaration of 'PropertyStructure'
+  Player.cpp
+  MonopolyManager.cpp
+  MainExecutable.cpp
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.h(17): error C3646: 'loadPropertyInformation': unknown override specifier
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\propertysquares.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\iivanov\desktop\monopoly-master\monopolygameassignment\mainexecutable.cpp(8): error C2259: 'PropertySquares': cannot instantiate abstract class
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\mainexecutable.cpp(8): note: due to following members:
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\mainexecutable.cpp(8): note: 'void ISquareType::SquareInformation(void)': is abstract
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\isquare.h(9): note: see declaration of 'ISquareType::SquareInformation'
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\mainexecutable.cpp(8): note: 'void ISquareType::SquareType(void)': is abstract
+  d:\iivanov\desktop\monopoly-master\monopolygameassignment\isquare.h(10): note: see declaration of 'ISquareType::SquareType'
+  Generating Code...
